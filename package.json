@@ -1,0 +1,20 @@
+{
+  "name": "com.frabbi",
+  "version": "1.0.0",
+  "description": "This is testing project for routing and nodemon.",
+  "main": "mainindex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon mainindex.js"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "nodemon"
+  ],
+  "author": "FRabbi",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
